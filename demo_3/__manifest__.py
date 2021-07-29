@@ -16,7 +16,7 @@
 	- Table Hedar Sticky	
     """,
 
-    'author': "Ksolves India Pvt. Ltd.",
+    'author': "Odoo Apps Store",
     'website': "https://www.ksolves.com/",
     'license': 'LGPL-3',
     'category': 'Tools',

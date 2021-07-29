@@ -21,9 +21,10 @@
     'license': 'LGPL-3',
     'category': 'Tools',
     'version': '13.0.1.0.0',
-    'images': ['static/description/main.jpg'],
+    'images': ['static/description/main.jpeg'],
     'depends': ['base'],
-
+    'price': 200,
+    'price_comparison': {'standard': 0, 'pro': 50, 'vip': 100},
     'data': [
         'views/assets.xml',
     ],

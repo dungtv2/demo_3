@@ -24,7 +24,7 @@
     'images': ['static/description/main.jpeg'],
     'depends': ['base'],
 'price': 200,
-    'price_comparison': {'standard': 0, 'pro': 50, 'vip': 100},
+    # 'price_comparison': {'standard': 0, 'pro': 50, 'vip': 100},
     'data': [
         'views/assets.xml',
     ],
